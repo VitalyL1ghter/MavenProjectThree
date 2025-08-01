@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7c543ff-aac5-4b4f-8e11-a8b3b0c767ab" name="Changes" comment="Test and work program" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="proportion" value="0.5173042" />
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2wPEmAQxso9RGeHaWBfDRLtvJJ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "homm",
+    "last_opened_file_path": "C:/project/JavaRushOne",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.example" />
+      <recent name="ru.example.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonTest">
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProjectThree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.example.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.example.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.example.model.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProjectThree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.example.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.example.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.example.model.UserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.addUser (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProjectThree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.example.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.example.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.example.model.UserTest" />
+      <option name="METHOD_NAME" value="addUser(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProjectThree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.example.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.example.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.example.model.UserTest" />
+      <option name="METHOD_NAME" value="addUser(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testUserCreat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProjectThree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.example.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.example.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.example.model.UserTest" />
+      <option name="METHOD_NAME" value="testUserCreat(ru.example.model.User)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserTest.testUserCreat" />
+        <item itemvalue="JUnit.UserTest.addUser (1)" />
+        <item itemvalue="JUnit.UserTest.addUser" />
+        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.PersonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c543ff-aac5-4b4f-8e11-a8b3b0c767ab" name="Changes" comment="" />
+      <created>1745934965928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745934965928</updated>
+      <workItem from="1745934966909" duration="6182000" />
+      <workItem from="1753115203241" duration="2016000" />
+      <workItem from="1753177304568" duration="7180000" />
+      <workItem from="1753339120732" duration="25045000" />
+      <workItem from="1753432477198" duration="10151000" />
+      <workItem from="1753605789329" duration="19247000" />
+      <workItem from="1753695963509" duration="599000" />
+      <workItem from="1753706274678" duration="3189000" />
+      <workItem from="1753715752141" duration="599000" />
+      <workItem from="1753788873718" duration="4743000" />
+      <workItem from="1753803274590" duration="128000" />
+      <workItem from="1753868438358" duration="2426000" />
+      <workItem from="1753871101582" duration="6555000" />
+      <workItem from="1753889822782" duration="844000" />
+      <workItem from="1753890720225" duration="117000" />
+      <workItem from="1754026626686" duration="8484000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test settings">
+      <option name="closed" value="true" />
+      <created>1745936970760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745936970760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test and work program">
+      <option name="closed" value="true" />
+      <created>1754035278026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754035278027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test and work program">
+      <option name="closed" value="true" />
+      <created>1754035660552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754035660552</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test and work program">
+      <option name="closed" value="true" />
+      <created>1754035692025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754035692025</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test and work program">
+      <option name="closed" value="true" />
+      <created>1754038263967</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754038263967</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="homm" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test settings" />
+    <MESSAGE value="Test and work program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test and work program" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ru.example.model.UserTest" memberName="log" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MavenProjectThree$PersonTest.ic" NAME="PersonTest Coverage Results" MODIFIED="1753877603030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.example.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MavenProjectThree$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1753877622712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.example.model.*</FILTER>
+    </SUITE>
+  </component>
+</project>
